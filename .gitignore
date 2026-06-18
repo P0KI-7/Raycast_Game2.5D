@@ -1,0 +1,14 @@
+build/
+
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+
+.vscode/
